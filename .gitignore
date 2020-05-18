@@ -103,7 +103,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+https://github.com/HansHoogerwerf/dotap.git
 env/
 venv/
 ENV/
@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Intellij
+.idea/
